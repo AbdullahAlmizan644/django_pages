@@ -11,7 +11,7 @@ pip install pipenv
 </br>
 pipenv shell
 </br>
-pipenv install -r requirement.txt
+pipenv install -r requirements.txt
 </br>
 python manage.py runserver
 </br>
