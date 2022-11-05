@@ -9,6 +9,8 @@ cd django_pages
 </br>
 pip install pipenv
 </br>
+pipenv shell
+</br>
 pipenv install -r requirement.txt
 </br>
 python manage.py runserver
